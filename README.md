@@ -1,8 +1,8 @@
-![ƀ](/images/icon.png) breadwallet for Android
+![ƀ](/images/icon.png) Sexcoin hotwallet for Android
 ----------------------------------
 
-[![download](/images/icon-google-play.png)]
-(https://play.google.com/store/apps/details?id=com.breadwallet)
+[//]: [![download](/images/icon-google-play.png)]
+[//]: (https://play.google.com/store/apps/details?id=com.hotwallet)
 
 ###bitcoin done right
 
